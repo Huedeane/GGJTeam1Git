@@ -25,6 +25,7 @@ public class PlayerController : MonoBehaviour {
     [SerializeField] private float m_CurrentRunSpeed;
     [SerializeField] private float m_RunSpeedIncrement;
     [SerializeField] private Animator m_Animator;
+    [SerializeField] private GameObject m_PlayerCamera;
     #endregion
 
     #region Getter & Setter
@@ -230,6 +231,19 @@ public class PlayerController : MonoBehaviour {
         set
         {
             m_Animator = value;
+        }
+    }
+
+    public GameObject PlayerCamera
+    {
+        get
+        {
+            return m_PlayerCamera;
+        }
+
+        set
+        {
+            m_PlayerCamera = value;
         }
     }
     #endregion
