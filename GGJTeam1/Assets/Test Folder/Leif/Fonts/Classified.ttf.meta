@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e5d449b0bb464142a600577605f5441
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Classified
+  fontNames:
+  - ChevyRay - Classified
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7cae9a6fb963343d19b38eef66b1d332, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

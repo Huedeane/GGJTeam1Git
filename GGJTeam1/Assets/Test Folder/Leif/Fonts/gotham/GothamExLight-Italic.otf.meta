@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 977007a2f782f4b2e9e750a25f09ec49
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GothamExLight
+  fontNames:
+  - GothamExLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1852921a270554c52ad2087482817f1d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e00773b7a053042caa135e23fb145fdb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Stapler
+  fontNames:
+  - ChevyRay - Stapler
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b20af14e5914c41f486ab8a323f4213f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 20265648ef2b747e69b9222e1aae9b9d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Babyblocks Mono
+  fontNames:
+  - ChevyRay - Babyblocks Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1bc473341fddc49a1ae21efb7f44d907, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

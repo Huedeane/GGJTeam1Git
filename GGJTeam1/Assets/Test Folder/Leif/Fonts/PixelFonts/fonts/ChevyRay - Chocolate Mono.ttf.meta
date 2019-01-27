@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f23c3da84214749bb8ffd2a7bde938d9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Chocolate Mono
+  fontNames:
+  - ChevyRay - Chocolate Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 405f6a66f1e8c4468a9387004d1341fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

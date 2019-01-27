@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ca29a24af57d64bc683a1acef37b5a15
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Pinch
+  fontNames:
+  - ChevyRay - Pinch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 254c5e0a5a6b849a29deb59189f2798c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

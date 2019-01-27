@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e575e8480e60e479195cc77e27fd80ae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Express Mono
+  fontNames:
+  - ChevyRay - Express Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c9df715169ca48dfa6694cb5b36197b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

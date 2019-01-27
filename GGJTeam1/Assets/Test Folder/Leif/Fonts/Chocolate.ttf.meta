@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4783babc86d9f4f29a3efd6c135a0972
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Chocolate
+  fontNames:
+  - ChevyRay - Chocolate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f82ef15f4147493183ef764a8c32fee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

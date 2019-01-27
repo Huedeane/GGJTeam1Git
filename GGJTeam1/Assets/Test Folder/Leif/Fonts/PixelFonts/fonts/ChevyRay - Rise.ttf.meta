@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a9cf3667e37f44053a59bed19ec9fd3a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Rise
+  fontNames:
+  - ChevyRay - Rise
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0590d5744ffa0440f8e7c1459e53ea06, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

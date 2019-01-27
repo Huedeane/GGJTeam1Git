@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 355ab7e8b09834cc5a48861254f969b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Lantern
+  fontNames:
+  - ChevyRay - Lantern
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c356c453f73d4ebfaf148a9a72a5789, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

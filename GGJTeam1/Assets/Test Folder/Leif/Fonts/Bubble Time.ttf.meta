@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f9a0a1feb5c68436489ddc25a4884fbe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Bubble Time
+  fontNames:
+  - ChevyRay - Bubble Time
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5ad5c8f7d81f045edb20ab451ecdf419, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

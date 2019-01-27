@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 607aa0d1f19694bf1aef9dc1da9746a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Magic Book
+  fontNames:
+  - ChevyRay - Magic Book
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23ac44cf7d97c43359d9c59092a6e41b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

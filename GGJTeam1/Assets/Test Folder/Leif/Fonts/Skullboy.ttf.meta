@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9bbbb68fcd9e94a9ab285bcbbe55daed
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChevyRay - Skullboy
+  fontNames:
+  - ChevyRay - Skullboy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52718cbe7a0594cd4ac5af5ed1520e82, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
