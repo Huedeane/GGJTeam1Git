@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour {
     [SerializeField] private float m_YAxis;
     [SerializeField] private float m_CurrentRunSpeed;
     [SerializeField] private float m_RunSpeedIncrement;
+    [SerializeField] private Animator m_Animator;
     #endregion
 
     #region Getter & Setter
@@ -219,6 +220,18 @@ public class PlayerController : MonoBehaviour {
             m_RunSpeedIncrement = value;
         }
     }
+    public Animator Animator
+    {
+        get
+        {
+            return m_Animator;
+        }
+
+        set
+        {
+            m_Animator = value;
+        }
+    }
     #endregion
 
     void Start()
@@ -227,9 +240,7 @@ public class PlayerController : MonoBehaviour {
         m_IsDead = false;
         m_IsGrounded = false;
         m_CanMove = true;
-        m_PlayerRB = GetComponent<Rigidbody2D>();
         m_PlayerDirection = E_PlayerDirection.Right;
-        m_SpriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void FixedUpdate()
@@ -311,9 +322,15 @@ public class PlayerController : MonoBehaviour {
             //If absolute of x-axis is greater then one, then they are consider moving
             #region CheckIsMoving
             if (Mathf.Abs(m_XAxis) > 0 || Mathf.Abs(m_YAxis) > 0)
+            {
                 m_IsMoving = true;
+                m_Animator.SetBool("IsMoving", true);
+            }
             else
+            {
                 m_IsMoving = false;
+                m_Animator.SetBool("IsMoving", false);
+            }
             #endregion
 
             //Set Sprite direction depending on x axis movement
